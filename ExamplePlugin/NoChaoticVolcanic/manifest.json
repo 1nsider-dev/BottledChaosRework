@@ -1,0 +1,10 @@
+{
+    "name": "BetterChaosPool",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Removes Eccentric Vase and Volcanic Egg from the Bottled Chaos pool.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1901",
+    	"tristanmcpherson-R2API-4.0.11"
+    ]
+}
